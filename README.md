@@ -2,6 +2,11 @@
   <h1>Hey hola!, soy Bryan Avalos 😃</h1>
 </div>
 
+## Sobre mi
+
+- Desarrollo de software 💻
+- Soporte tecnico 🔧
+- Instructor de certificaciones Office 👨‍🏫
 <!--
 **BryanAvalos23/BryanAvalos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
