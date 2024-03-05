@@ -1,4 +1,6 @@
-### Hey hola!, soy Bryan Avalos 😃
+<div>
+  <h1>Hey hola!, soy Bryan Avalos 😃</h1>
+</div>
 
 <!--
 **BryanAvalos23/BryanAvalos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
