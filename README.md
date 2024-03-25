@@ -6,7 +6,7 @@
 
 - Desarrollo de software 💻
 - Soporte tecnico 🔧
-- Instructor de certificaciones Office 👨‍🏫
+- Instructor y capacitador de certificaciones Office y Azure 👨‍🏫
 - Asesor de proyectos universitarios
 
 
