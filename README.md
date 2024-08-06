@@ -5,10 +5,9 @@
 ## Sobre mi
 
 - Desarrollo de software 💻
+- Adminisrador de sistemas Linux
 - Soporte tecnico 🔧
 - Instructor y capacitador de certificaciones Office y Azure 👨‍🏫
-- Asesor de proyectos universitarios
-
 
 <!--
 **BryanAvalos23/BryanAvalos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
