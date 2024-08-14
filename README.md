@@ -5,8 +5,8 @@
 ## Sobre mi
 
 - Desarrollo de software 💻
-- Adminisrador de sistemas Linux
-- Soporte tecnico 🔧
+- Administrador de sistemas Linux
+- Cloud Engineer
 - Instructor y capacitador de certificaciones Office y Azure 👨‍🏫
 
 <!--
