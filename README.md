@@ -42,8 +42,8 @@ Here’s a glimpse of the technologies I work with regularly:
 
 ### 📫 Get in Touch:
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- 🌐 [Portfolio](https://tu-portfolio.com) *(Opcional, si tienes uno)*
-- 📧 bryan.avalos@example.com *(Reemplaza con tu correo real)*
+- 🌐 [Portfolio](https://bryanavalos.netlify.app/)
+- 📧 bryanavalos23@outlook.com
 
 ---
 
