@@ -9,7 +9,7 @@
 
 ### 🖐 About Me
 
-I’m a passionate **Cloud Engineer** with experience in **AWS** and **Azure**, and a solid background in **software development**. My expertise includes designing and implementing **cloud infrastructure architectures**, as well as creating software solutions that drive efficiency and innovation.
+I’m a passionate **Cloud Engineer** with experience in **AWS** and **Azure**, and a solid background in **software development**. My experience includes designing and implementing **cloud infrastructure architectures**, as well as creating software solutions that drive efficiency and innovation.
 
 ### 🌟 What I Do:
 - 🔧 **Cloud Engineering**: Building and optimizing infrastructures on AWS and Azure for applications, data science, artificial intelligence, and organizational needs.
