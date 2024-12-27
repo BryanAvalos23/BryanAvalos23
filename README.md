@@ -1,5 +1,5 @@
 <div>
-  <h1> Hey Welcome, soy Bryan Avalos 😃</h1>
+  <h1> Hey Welcome, Im Bryan Avalos 😃</h1>
 </div>
 
 ## Abour me
