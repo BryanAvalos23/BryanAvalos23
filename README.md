@@ -1,11 +1,11 @@
 <div>
-  <h1> Hey hola!, soy Bryan Avalos 😃</h1>
+  <h1> Hey Welcome, soy Bryan Avalos 😃</h1>
 </div>
 
-## Sobre mi
+## Abour me
 
-- Desarrollo de software 💻
-- Administrador de sistemas Linux
-- Cloud Engineer
-- Instructor y capacitador de certificaciones Office y Azure 👨‍🏫
+- Cloud Engineer AWS and Azure
+- Linux Administrator
+- Software developer 💻
+- Azure and Office 365 instructor and trainer 👨‍🏫
 
