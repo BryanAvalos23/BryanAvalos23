@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, Welcome! I'm Bryan Avalos 😃</h1>
   <p>
-    🌟 Cloud Engineer | Software Developer | Linux Enthusiast 🌟
+    🌟 Cloud Engineer | Linux Enthusiast 🌟
   </p>
 </div>
 
