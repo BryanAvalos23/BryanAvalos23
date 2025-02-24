@@ -32,11 +32,11 @@ Here’s a glimpse of the technologies I work with regularly:
 |--------------------|-----------------------------------------------------------------|
 | Cloud Platforms    | AWS, Azure                                                    |
 | Dev Tools          | Terraform, Git                                                |
-| Software Development | Python, JavaScript, Flask, React, Astro                      |
+| Software Development | Python, JavaScript, Flask, Astro                            |
 | Hosting            | Netlify, AWS Lightsail                                        |
-| Operating Systems  | Linux (Ubuntu, Debian)                                        |
+| Operating Systems  | Linux (Ubuntu, Debian, parrot)                                |
 | Monitoring         | Grafana, CloudWatch                                           |
-| Other Skills       | VPC Networking, Security Groups, IAM, Automation              |
+| Other Skills       | VPC Networking, Security Groups, IAM, Automation, bash        |
 
 ---
 
