@@ -1,51 +1,61 @@
 <div align="center">
   <h1>👋 Hey, Welcome! I'm Bryan Avalos 😃</h1>
   <p>
-    🌟 Cloud Engineer | Linux Enthusiast 🌟
+    <strong>DevOps & Cloud Engineer</strong> | Kubernetes · Terraform · AWS · Docker · CI/CD · IaC | Infrastructure Automation & Observability
   </p>
 </div>
 
 ---
 
-### 🖐 About Me
+### 🧑‍💻 About Me
 
-I’m a passionate **Cloud Engineer** with experience in **AWS** and **Azure**, and a solid background in **software development**. My experience includes designing and implementing **cloud infrastructure architectures**, as well as creating software solutions that drive efficiency and innovation.
+I'm a **Cloud & DevOps Engineer** with experience in designing, automating, and managing cloud infrastructure using **AWS** and **Azure**. I’m passionate about optimizing processes through DevOps practices, Infrastructure as Code (IaC), and CI/CD pipelines to deliver scalable, secure, and efficient solutions.
 
-### 🌟 What I Do:
-- 🔧 **Cloud Engineering**: Building and optimizing infrastructures on AWS and Azure for applications, data science, artificial intelligence, and organizational needs.
-- 🖥️ **Software Development**: Proficient in **Python** and **JavaScript**, with hands-on experience using frameworks like **Flask**, **React**, and **Astro**.
-- 🐧 **Linux Administration**: Skilled in managing Ubuntu and Debian systems for various environments.
-- 🛠️ **Infrastructure Automation**: Using **Terraform** to manage infrastructure as code for scalable and efficient deployments.
-- 👨‍🏫 **Instructor**: Providing training on **Azure**, **Office 365**, and cloud technologies to empower others.
-
-### 🌐 Additional Skills:
-- 💡 Hosting and deployment using **Netlify** and other platforms.
-- 📊 Creating solutions for **data science** workflows and **AI** in the cloud.
-- 📁 Infrastructure design for both **startups** and **enterprise organizations**.
+I've collaborated on projects involving IoT, microservices, and web applications, leveraging modern tools for automation, monitoring, and continuous delivery.
 
 ---
 
-### ⚡ Tech Stack:
-Here’s a glimpse of the technologies I work with regularly:
+### 🚀 What I Do
 
-| **Category**      | **Tools/Technologies**                                           |
-|--------------------|-----------------------------------------------------------------|
-| Cloud Platforms    | AWS, Azure                                                    |
-| Dev Tools          | Terraform, Git                                                |
-| Software Development | Python, JavaScript, Flask, Astro                            |
-| Hosting            | Netlify, AWS Lightsail                                        |
-| Operating Systems  | Linux (Ubuntu, Debian, parrot)                                |
-| Monitoring         | Grafana, CloudWatch                                           |
-| Other Skills       | VPC Networking, Security Groups, IAM, Automation, bash        |
+- ⚙️ **Cloud Engineering**: Design and deployment of scalable, secure cloud architectures on AWS and Azure.
+- 🔁 **DevOps & CI/CD**: Workflow automation using GitHub Actions, Azure DevOps, and Serverless Framework.
+- 🧱 **Infrastructure as Code**: Managing reproducible infrastructure with Terraform and CloudFormation.
+- 🐍 **Python Development**: Backend scripts, Lambda functions, and REST APIs for automation and data handling.
+- 🐳 **Containers & Orchestration**: Working with Docker and Kubernetes to build and run modern applications.
+- 📊 **Monitoring & Observability**: Integrating solutions with Grafana and AWS CloudWatch for system insights.
 
 ---
 
-### 📫 Get in Touch:
-- 🌐 [Portfolio](https://bryanavalos.online/)
+### 🧠 Currently Learning
+
+- 🔍 **Prometheus** – native monitoring with custom metrics.  
+- 🤖 **Ansible** – configuration management and automated deployments.  
+- ☁️ **Google Cloud Platform (GCP)** – expanding multicloud expertise.
+
+---
+
+### 🧰 Tech Stack
+
+| **Category**             | **Tools/Technologies**                                                |
+|--------------------------|----------------------------------------------------------------------|
+| ☁️ Cloud Platforms        | AWS, Azure                                                           |
+| 🛠️ Infrastructure as Code | Terraform, CloudFormation, Serverless Framework                     |
+| 🔄 CI/CD & Automation     | GitHub Actions, Azure DevOps                                         |
+| 💻 Dev Tools              | Git, GitHub, Bash, Python                                            |
+| 📦 Containers             | Docker, Kubernetes                                                   |
+| 📈 Monitoring             | Grafana, CloudWatch                                                  |
+| 🌍 Hosting/Deployment     | Netlify, Nginx                                                       |
+| 🐧 Operating Systems      | Ubuntu                                                               |
+
+---
+
+### 🌐 Portfolio & Contact
+
+- 🌐 [Personal Portfolio](https://bryanavalos.online/)
 - 📧 bryanavalos23@outlook.com
 
 ---
 
 <div align="center">
-  <p>🌟 <i>"Empowering the cloud, one solution at a time."</i> 🌟</p>
+  <p>🚀 <i>"Empowering the cloud, one automated solution at a time."</i> 🚀</p>
 </div>
