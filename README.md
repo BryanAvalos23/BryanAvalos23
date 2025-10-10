@@ -48,7 +48,7 @@ I've collaborated on projects involving IoT, microservices, and web applications
 
 ### ☁️ Certificaciones en Microsoft Azure  
 
-[![Azure Fundamentals](https://images.credly.com/size/110x110/images/f500df08-c44f-41cd-9307-14fb9c7ec537/Azure_Fundamentals.png)](https://www.credly.com/badges/f500df08-c44f-41cd-9307-14fb9c7ec537)
+[![Azure Fundamentals](https://images.credly.com/size/160x160/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/f500df08-c44f-41cd-9307-14fb9c7ec537)
 
 ---
 
