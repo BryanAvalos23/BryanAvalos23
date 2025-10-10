@@ -24,16 +24,6 @@ I've collaborated on projects involving IoT, microservices, and web applications
 - 🐳 **Containers & Orchestration**: Working with Docker and Kubernetes to build and run modern applications.
 - 📊 **Monitoring & Observability**: Integrating solutions with Grafana and AWS CloudWatch for system insights.
 
----
-
-### 🧠 Currently Learning
-
-- 🔍 **Prometheus** – native monitoring with custom metrics.  
-- 🤖 **Ansible** – configuration management and automated deployments.  
-- ☁️ **Google Cloud Platform (GCP)** – expanding multicloud expertise.
-
----
-
 ### 🧰 Tech Stack
 
 | **Category**             | **Tools/Technologies**                                                |
@@ -53,6 +43,12 @@ I've collaborated on projects involving IoT, microservices, and web applications
 
 - 🌐 [Personal Portfolio](https://bryanavalos.online/)
 - 📧 bryanavalos23@outlook.com
+
+---
+
+### ☁️ Certificaciones en Microsoft Azure  
+
+[![Azure Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/Azure_Fundamentals.png)](https://www.credly.com/badges/f500df08-c44f-41cd-9307-14fb9c7ec537)
 
 ---
 
