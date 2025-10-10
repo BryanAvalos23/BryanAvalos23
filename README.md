@@ -50,7 +50,7 @@ I've collaborated on projects involving IoT, microservices, and web applications
 
 [![Azure Fundamentals](https://images.credly.com/size/160x160/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/f500df08-c44f-41cd-9307-14fb9c7ec537)
 [![Azure Data Fundamentals](https://images.credly.com/size/160x160/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/94ce36ba-1032-482f-add6-8e9c8e990516)
-[![Azure Fundamentals](https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/5d339b7a-b7c5-4b98-bbc6-fdfbe26322e1)
+[![Azure Fundamentals](https://images.credly.com/size/160x160/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/5d339b7a-b7c5-4b98-bbc6-fdfbe26322e1)
 
 ---
 
