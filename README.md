@@ -30,8 +30,8 @@ I've collaborated on projects involving IoT, microservices, and web applications
 |--------------------------|----------------------------------------------------------------------|
 | ☁️ Cloud Platforms        | AWS, Azure                                                           |
 | 🛠️ Infrastructure as Code | Terraform, CloudFormation, Serverless Framework                     |
-| 🔄 CI/CD & Automation     | GitHub Actions, Azure DevOps                                         |
-| 💻 Dev Tools              | Git, GitHub, Bash, Python                                            |
+| 🔄 CI/CD & Automation     | GitHub Actions, Azure DevOps pipelines                             
+| 💻 Dev Tools              | Git, GitHub, Bash, Python, Azure DevOps                              |
 | 📦 Containers             | Docker, Kubernetes                                                   |
 | 📈 Monitoring             | Grafana, CloudWatch                                                  |
 | 🌍 Hosting/Deployment     | Netlify, Nginx                                                       |
