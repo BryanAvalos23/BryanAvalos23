@@ -18,24 +18,29 @@ I've collaborated on projects involving IoT, microservices, and web applications
 ### 🚀 What I Do
 
 - ⚙️ **Cloud Engineering**: Design and deployment of scalable, secure cloud architectures on AWS and Azure.
-- 🔁 **DevOps & CI/CD**: Workflow automation using GitHub Actions, Azure DevOps, and Serverless Framework.
-- 🧱 **Infrastructure as Code**: Managing reproducible infrastructure with Terraform and CloudFormation.
-- 🐍 **Python Development**: Backend scripts, Lambda functions, and REST APIs for automation and data handling.
-- 🐳 **Containers & Orchestration**: Working with Docker and Kubernetes to build and run modern applications.
-- 📊 **Monitoring & Observability**: Integrating solutions with Grafana and AWS CloudWatch for system insights.
+- 🔁 **DevOps & CI/CD**: Workflow automation using GitHub Actions, Azure DevOps, and YAML-based pipelines.
+- 🧱 **Infrastructure as Code**: Managing reproducible infrastructure with Terraform, CloudFormation, and Serverless Framework.
+- 💻 **Backend Development**: Building APIs and automation with Python and TypeScript (serverless & microservices).
+- 🐳 **Containers & Orchestration**: Designing and operating containerized workloads with Docker, Kubernetes, and Karpenter (auto-scaling).
+- 🌐 **Service Mesh & Networking**: Implementing traffic management, observability, and security using Istio.
+- 📊 **Monitoring & Observability**: Integrating Grafana, Prometheus, and AWS CloudWatch for metrics, logs, and alerting.
+
+---
 
 ### 🧰 Tech Stack
 
-| **Category**             | **Tools/Technologies**                                                |
-|--------------------------|----------------------------------------------------------------------|
-| ☁️ Cloud Platforms        | AWS, Azure                                                           |
-| 🛠️ Infrastructure as Code | Terraform, CloudFormation, Serverless Framework                     |
-| 🔄 CI/CD & Automation     | GitHub Actions, Azure DevOps pipelines                             |
-| 💻 Dev Tools              | Git, GitHub, Bash, Python, Azure DevOps                              |
-| 📦 Containers             | Docker, Kubernetes                                                   |
-| 📈 Monitoring             | Grafana, CloudWatch                                                  |
-| 🌍 Hosting/Deployment     | Netlify, Nginx                                                       |
-| 🐧 Operating Systems      | Ubuntu server, Parrot                                                |
+| **Category**               | **Tools/Technologies**                                                        |
+|----------------------------|-------------------------------------------------------------------------------|
+| ☁️ Cloud Platforms          | AWS, Azure                                                                   |
+| 🛠️ Infrastructure as Code   | Terraform, CloudFormation, Serverless Framework                             |
+| 🔄 CI/CD & Automation       | GitHub Actions, Azure DevOps, YAML                                           |
+| 💻 Languages                | Python, TypeScript                                                           |
+| 📦 Containers & Orchestration | Docker, Kubernetes, Karpenter                                               |
+| 🌐 Networking & Service Mesh | Istio                                                                       |
+| 📈 Monitoring               | Grafana, Prometheus, CloudWatch                                              |
+| 💻 Dev Tools                | Git, GitHub, Bash, Azure DevOps                                              |
+| 🌍 Hosting/Deployment       | Netlify, Nginx                                                               |
+| 🐧 Operating Systems        | Ubuntu Server, Parrot                                                        |
 
 ---
 
