@@ -9,9 +9,11 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Enterprise-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps-Security-red?logo=owasp&logoColor=white" />
 </p>
 
