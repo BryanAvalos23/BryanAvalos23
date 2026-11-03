@@ -1,66 +1,166 @@
 <div align="center">
-  <h1>👋 Hey, Welcome! I'm Bryan Avalos 😃</h1>
-  <p>
-    <strong>DevOps & Cloud Engineer</strong> | Kubernetes · Terraform · AWS · Docker · CI/CD · IaC | Infrastructure Automation & Observability
-  </p>
+
+# 👋 Hey, I'm Bryan Avalos
+
+### DevOps & Cloud Engineer | Cloud Architecture | Enterprise DevOps | DevSecOps
+
+**Engineering, securing, and evolving enterprise-scale cloud and DevOps platforms.**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Enterprise-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-Security-red?logo=owasp&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Cloud & DevOps Engineer** with experience in designing, automating, and managing cloud infrastructure using **AWS** and **Azure**. I’m passionate about optimizing processes through DevOps practices, Infrastructure as Code (IaC), and CI/CD pipelines to deliver scalable, secure, and efficient solutions.
+I'm a **DevOps & Cloud Engineer** focused on cloud architecture, enterprise-scale DevOps, platform engineering, infrastructure automation, and secure software delivery.
 
-I've collaborated on projects involving IoT, microservices, and web applications, leveraging modern tools for automation, monitoring, and continuous delivery.
+My experience includes designing and evolving cloud architectures, engineering CI/CD ecosystems, implementing Infrastructure as Code (IaC), and integrating security controls throughout the software development lifecycle.
 
----
+I've worked with enterprise technology environments, including large-scale repository ecosystems, multiple development teams, complex deployment workflows, and regulated environments where security, traceability, governance, and operational reliability are essential.
 
-### 🚀 What I Do
+My work goes beyond pipeline implementation. I contribute to technical initiatives, architectural improvements, platform modernization, cloud infrastructure governance, DevSecOps adoption, and engineering standardization.
 
-- ⚙️ **Cloud Engineering**: Design and deployment of scalable, secure cloud architectures on AWS and Azure.
-- 🔁 **DevOps & CI/CD**: Workflow automation using GitHub Actions, Azure DevOps, and YAML-based pipelines.
-- 🧱 **Infrastructure as Code**: Managing reproducible infrastructure with Terraform, CloudFormation, and Serverless Framework.
-- 💻 **Backend Development**: Building APIs and automation with Python and TypeScript (serverless & microservices).
-- 🐳 **Containers & Orchestration**: Designing and operating containerized workloads with Docker, Kubernetes, and Karpenter (auto-scaling).
-- 🌐 **Service Mesh & Networking**: Implementing traffic management, observability, and security using Istio.
-- 📊 **Monitoring & Observability**: Integrating Grafana, Prometheus, and AWS CloudWatch for metrics, logs, and alerting.
+I'm particularly interested in building scalable, secure, reusable, and maintainable technology platforms that improve engineering efficiency while meeting enterprise operational and security requirements.
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Areas of Expertise
 
-| **Category**               | **Tools/Technologies**                                                        |
-|----------------------------|-------------------------------------------------------------------------------|
-| ☁️ Cloud Platforms          | AWS, Azure                                                                   |
-| 🛠️ Infrastructure as Code   | Terraform, CloudFormation, Serverless Framework                             |
-| 🔄 CI/CD & Automation       | GitHub Actions, Azure DevOps, YAML                                           |
-| 💻 Languages                | Python, TypeScript                                                           |
-| 📦 Containers & Orchestration | Docker, Kubernetes, Karpenter                                               |
-| 🌐 Networking & Service Mesh | Istio                                                                       |
-| 📈 Monitoring               | Grafana, Prometheus, CloudWatch                                              |
-| 💻 Dev Tools                | Git, GitHub, Bash, Azure DevOps                                              |
-| 🌍 Hosting/Deployment       | Netlify, Nginx                                                               |
-| 🐧 Operating Systems        | Ubuntu Server, Parrot                                                        |
+### ☁️ Cloud Architecture & Infrastructure Engineering
+
+- Design and evolution of cloud infrastructure architectures.
+- AWS and Azure infrastructure provisioning and lifecycle management.
+- Multi-environment infrastructure strategies and governance.
+- Cloud resource optimization, budgeting, and cost management.
+- Infrastructure architecture standardization and reusable patterns.
+- Infrastructure automation and cloud operational improvements.
+
+### 🏢 Enterprise-Scale DevOps & Platform Engineering
+
+- Management and evolution of large-scale DevOps ecosystems.
+- CI/CD architecture, implementation, standardization, and optimization.
+- Enterprise repository governance and lifecycle management.
+- Azure DevOps and GitHub Enterprise platform administration and automation.
+- Large-scale platform modernization and Azure DevOps to GitHub migrations.
+- Branching strategies, pull request policies, permissions, and deployment governance.
+- Reusable pipeline templates and centralized automation frameworks.
+- Engineering standards and collaboration across multiple development and infrastructure teams.
+
+### 🏦 Banking & Regulated Technology Environments
+
+- DevOps engineering within enterprise and regulated environments.
+- Implementation of security and governance controls across software delivery workflows.
+- Traceability and auditability of code changes, deployments, and infrastructure modifications.
+- Separation of responsibilities and controlled deployment processes.
+- Repository, branch, and pipeline access governance.
+- Security-oriented CI/CD architectures and infrastructure controls.
+- Standardization of engineering practices aligned with enterprise security and operational requirements.
+- Infrastructure governance, risk reduction, and operational reliability.
+
+### 🧱 Infrastructure as Code (IaC)
+
+- Terraform architecture, module development, and standardization.
+- AWS CloudFormation and infrastructure provisioning.
+- Reusable infrastructure components and shared modules.
+- Infrastructure governance and decentralized IaC adoption.
+- Infrastructure deployment automation across cloud environments.
+- Infrastructure lifecycle management and configuration consistency.
+
+### 🔐 DevSecOps & Security Automation
+
+- Security integration throughout CI/CD pipelines.
+- Static code analysis and vulnerability management.
+- Infrastructure as Code security scanning.
+- Secret detection and prevention.
+- Container image security and vulnerability assessment.
+- Automated security controls and compliance-oriented engineering practices.
+- Security findings management and remediation workflows.
+
+### 🐳 Containers, Kubernetes & GitOps
+
+- Kubernetes architecture and workload orchestration.
+- Docker and containerized application environments.
+- GitOps implementation and continuous reconciliation.
+- FluxCD-based deployment automation.
+- Kubernetes autoscaling with Karpenter.
+- Service mesh and traffic management with Istio.
+- Container build automation and deployment optimization.
+
+### 📊 Observability & Operational Reliability
+
+- Monitoring and observability architecture.
+- Metrics, logs, dashboards, and alerting.
+- Infrastructure and application performance monitoring.
+- Operational visibility and troubleshooting.
+- Grafana, Prometheus, and AWS CloudWatch integrations.
+- Security findings tracking and operational reporting.
 
 ---
 
-### 🌐 Portfolio & Contact
+## 🛠️ Technology Stack
 
-- 🌐 [Personal Portfolio](https://bryanavalos.online/)
-- 📧 bryanavalos23@outlook.com
+| Category | Technologies |
+|---|---|
+| ☁️ Cloud Platforms | AWS, Microsoft Azure |
+| 🧱 Infrastructure as Code | Terraform, AWS CloudFormation, Serverless Framework |
+| ⚙️ DevOps Platforms | Azure DevOps, GitHub Enterprise |
+| 🔄 CI/CD & Automation | GitHub Actions, Azure Pipelines, YAML |
+| 🔐 DevSecOps | Trivy, Checkov, TruffleHog, Gitleaks, Prisma Cloud, Twistlock / Twistcli |
+| 🔎 Code Quality & Security | SonarQube |
+| 🐳 Containers | Docker, BuildKit |
+| ☸️ Orchestration | Kubernetes, Amazon EKS, Karpenter |
+| 🔁 GitOps | FluxCD |
+| 🌐 Service Mesh & Networking | Istio, AWS Networking |
+| 📊 Monitoring & Observability | Grafana, Prometheus, AWS CloudWatch, DefectDojo |
+| 💻 Programming & Scripting | Python, TypeScript, Bash |
+| 🔧 Development Tools | Git, GitHub, Maven, Gradle |
+| 🐧 Operating Systems | Linux, Ubuntu Server, Parrot OS |
 
 ---
 
-### ☁️ Certificaciones 
+## 🔬 What I'm Currently Working On
 
-[![Azure Fundamentals](https://images.credly.com/size/160x160/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/f500df08-c44f-41cd-9307-14fb9c7ec537)
-[![Azure Data Fundamentals](https://images.credly.com/size/160x160/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/94ce36ba-1032-482f-add6-8e9c8e990516)
-[![Azure Fundamentals](https://images.credly.com/size/160x160/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/5d339b7a-b7c5-4b98-bbc6-fdfbe26322e1)
-  
+- **Enterprise DevOps Modernization:** Contributing to large-scale migrations from Azure DevOps to GitHub Enterprise, covering repositories, branching strategies, pipelines, policies, permissions, integrations, and dependencies.
 
+- **Infrastructure Standardization & Governance:** Designing and promoting reusable Terraform architectures, modules, and governance practices to improve infrastructure consistency, scalability, and team autonomy.
+
+- **DevSecOps Integration:** Strengthening security controls across enterprise software delivery pipelines through automated code analysis, secret detection, IaC scanning, and container security.
+
+- **Cloud Architecture & Governance:** Improving infrastructure architectures, deployment strategies, resource management, budgeting, and cloud cost optimization.
+
+- **Banking Technology & Operational Controls:** Contributing to engineering practices focused on traceability, access governance, controlled deployments, security, and operational reliability in enterprise environments.
+
+- **Kubernetes & GitOps:** Implementing and exploring modern deployment and orchestration practices using Kubernetes, FluxCD, Docker, and cloud-native technologies.
+
+- **Engineering Automation:** Developing automation solutions, reusable templates, and engineering tools to simplify workflows and improve operational efficiency.
+
+---
+
+## 🎯 Professional Interests
+
+- Enterprise & Cloud Architecture
+- Enterprise DevOps & Platform Engineering
+- Banking Technology & Regulated Environments
+- Cloud Security & DevSecOps
+- Infrastructure as Code & Cloud Governance
+- Software Delivery Governance
+- Kubernetes & Cloud-Native Ecosystems
+- Site Reliability Engineering (SRE)
+- FinOps & Cloud Cost Optimization
 
 ---
 
 <div align="center">
-  <p>🚀 <i>"Empowering the cloud, one automated solution at a time."</i> 🚀</p>
+
+*"Engineering secure, scalable, and governed technology platforms through automation, architecture, and continuous improvement."*
+
 </div>
